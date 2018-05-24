@@ -28,3 +28,4 @@ then our original html will be
   </Footer>
  <!-- /include -->
 ```
+![Alt Text]( https://media.giphy.com/media/dJQF5mm4vhLi2knmva/giphy.gif)
