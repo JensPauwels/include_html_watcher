@@ -1,5 +1,6 @@
-step1: yarn install
-step2: gulp
+#step1: yarn install
+
+#step2: gulp
 
 This script will allow you to include html chunks in other files, this allows us to write maintaible html code.
 
